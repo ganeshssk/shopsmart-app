@@ -1,3 +1,6 @@
+DOCKERHUB_USERNAME: dckr_pat_5iqtn0XGJi9WOE_O-pkEqV68WAI
+DOCKERHUB_TOKEN: dckr_pat_8gpmn8NhMHMOvfwa9VhfKCPxUso
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
